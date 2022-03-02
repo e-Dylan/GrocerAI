@@ -1,1 +1,7 @@
-this is the repository for GrocerAI
+### this is the repository for GrocerAI
+
+# Goals
+
+# Project
+
+# Etc...
